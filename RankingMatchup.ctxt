@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=probabilities
+comment0.target=int[]\ oneMatchup(double[][])
+comment1.params=winnings
+comment1.target=double[][]\ placement(int[])
+comment2.params=probabilities
+comment2.target=void\ main(double[][])
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
